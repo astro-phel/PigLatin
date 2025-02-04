@@ -1,3 +1,5 @@
+
+
 public void setup() 
 {
   String[] lines = loadStrings("words.txt");
